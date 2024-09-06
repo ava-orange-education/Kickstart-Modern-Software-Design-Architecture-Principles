@@ -1,2 +1,2 @@
-# Modern-Software-Design-Architecture-Handbook
-Modern Software Design Architecture Handbook, published by Orange, AVA™
+# Kickstart Modern Software Design Architecture Principles
+Kickstart Modern Software Design Architecture Principles, published by Orange, AVA™
